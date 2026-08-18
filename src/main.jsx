@@ -10,7 +10,7 @@ import {BrowserRouter} from 'react-router-dom'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="/Media-Search"g>
+      <BrowserRouter basename="/Media-Search">
         <App />
       </BrowserRouter>
     </Provider>
