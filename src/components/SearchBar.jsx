@@ -16,7 +16,7 @@ const SearchBar = () => {
   };
 
   return (
-    <section className="flex min-h-[420px] items-center justify-center bg-(--c3) px-5 py-5 sm:px-8">
+    <section className="flex min-h-105 items-center justify-center bg-(--c3) px-5 py-5 sm:px-8">
       <div className="w-full max-w-3xl">
 
         <div className="text-center">
